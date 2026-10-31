@@ -1,0 +1,5 @@
+interface:
+  display_name: "Motor pedagógico · Validar"
+  short_description: "Audita exactitud y trazabilidad"
+  default_prompt: "Usa $motor-pedagogico-validar-unidad para auditar este material antes de publicarlo."
+

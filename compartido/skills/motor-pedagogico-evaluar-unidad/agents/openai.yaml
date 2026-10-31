@@ -1,0 +1,4 @@
+interface:
+  display_name: "Motor pedagógico · Evaluar"
+  short_description: "Realiza evaluaciones formativas interactivas"
+  default_prompt: "Usa $motor-pedagogico-evaluar-unidad para evaluar esta unidad pregunta por pregunta."

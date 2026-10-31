@@ -1,0 +1,5 @@
+interface:
+  display_name: "Motor pedagógico · Investigar"
+  short_description: "Verifica riesgos con fuentes confiables"
+  default_prompt: "Usa $motor-pedagogico-investigar-unidad para investigar las afirmaciones de riesgo de esta unidad."
+

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Motor pedagógico · Plan de estudio"
+  short_description: "Investiga temas y diseña rutas modulares"
+  default_prompt: "Usa $motor-pedagogico-estandar-plan-estudio para investigar este tema y proponer su plan de estudio."

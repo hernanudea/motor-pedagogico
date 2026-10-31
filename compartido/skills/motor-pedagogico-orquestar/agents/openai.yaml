@@ -1,0 +1,5 @@
+interface:
+  display_name: "Motor pedagógico · Orquestar"
+  short_description: "Coordina una ruta de aprendizaje completa"
+  default_prompt: "Usa $motor-pedagogico-orquestar para coordinar mi próxima actividad de aprendizaje."
+

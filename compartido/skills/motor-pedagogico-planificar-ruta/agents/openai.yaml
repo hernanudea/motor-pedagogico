@@ -1,0 +1,5 @@
+interface:
+  display_name: "Motor pedagógico · Planificar"
+  short_description: "Diseña rutas de estudio progresivas"
+  default_prompt: "Usa $motor-pedagogico-planificar-ruta para diseñar una ruta de estudio sobre este tema."
+

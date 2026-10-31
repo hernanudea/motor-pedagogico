@@ -1,0 +1,5 @@
+interface:
+  display_name: "Motor pedagógico · Generar"
+  short_description: "Crea borradores pedagógicos de unidades"
+  default_prompt: "Usa $motor-pedagogico-generar-unidad para crear el borrador de esta unidad."
+

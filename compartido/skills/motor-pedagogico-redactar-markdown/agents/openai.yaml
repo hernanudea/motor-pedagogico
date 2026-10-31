@@ -1,0 +1,5 @@
+interface:
+  display_name: "Motor pedagógico · Redactar"
+  short_description: "Publica material pedagógico en Markdown"
+  default_prompt: "Usa $motor-pedagogico-redactar-markdown para publicar este material aprobado."
+
